@@ -12,7 +12,7 @@ void setup()
 rows:
 lcd.begin(16, 2);
 // Print a message to the LCD.
-lcd.print("Ajay");
+lcd.print("SUGUNA");
 }
 void loop() {
 // set the cursor to column 0, line 1
